@@ -44,27 +44,19 @@ N.B: It supports only in android version 4.0 or later.
 ![](https://img.shields.io/github/v/release/imshakil/BloodBank.svg) 
 ![](https://img.shields.io/github/issues/imshakil/BloodBank.svg)
 
-# Database Snapshot
-Follow this link: https://github.com/imShakil/BloodBank/wiki/Database-Snapshots
-(This project can be used for any educational purpose and can be changed or modified in need.<br><b> A star will be appriciated if you think it might be helpful.</b>)<br>
-
-# Changing Database and Package Name
-I got so many mails on about 'How to change Database link and Package Name'. So, Who has queries can watch this video: https://www.youtube.com/watch?v=nAzAo7shGKQ&ab_channel=AnubhavAnand
 
 
 # Contribution
 
-If you would like to contribute in this project, you are always welcome. There is no `code` avilable in the `master` branch. Please `switch` specific version and make changes there. For example, the latest dev version is: https://github.com/imShakil/BloodBank/tree/2.1
+If you would like to contribute in this project, you are always welcome. There is no `code` avilable in the `master` branch. Please `switch` specific version and make changes there. For example, the latest dev version is: https://github.com/likki18/bloodBank/edit/main/README.md
 You must need to create pull request to that specific branch to get it merged.
 
 # Support
 
-If you would like to support this project for better version, you can give some support [here](https://buymeacoffee.com/imshakil).
-
 
 Thanks
 
-Regards ~ Shakil
+Regards ~ Likitha
 
 
 
